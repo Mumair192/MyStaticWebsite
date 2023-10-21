@@ -33,7 +33,7 @@ body {
     align-items: center;
     background-image: url('Background.jpeg');
     background-size: cover;
-    color: #ffffff;
+    color: #16a475bf;
     height: 500px;
     text-shadow: 0.25px 0.25px 0.25px #000000;
   }
@@ -73,7 +73,7 @@ body {
   }
   
   .btn-secondary {
-    background-color: #E8DFE0;
+    background-color: #126270;
     color: #ffffff;
     margin: 0 0 30px;
   }
