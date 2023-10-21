@@ -31,7 +31,7 @@ body {
   .jumbotron {
     display: flex;
     align-items: center;
-    background-image: url('Work_pic.JPG');
+    background-image: url('Background.jpeg');
     background-size: cover;
     color: #ffffff;
     height: 500px;
